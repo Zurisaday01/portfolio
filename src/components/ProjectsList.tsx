@@ -15,7 +15,7 @@ const ProjectsList = () => {
 	);
 
 	return (
-		<section className='bg-primary-3 px-4 sm:px-9 pb-16 pt-4' id='projects-list'>
+		<section className='bg-primary-3 px-10 pb-16 pt-4' id='projects-list'>
 			<div className='text-center py-8 flex flex-col gap-2 items-center mb-3'>
 				<h2 className='heading_h2'>Projects</h2>
 				<p className='text-white'>Here are a few projects I have worked on</p>

@@ -5,7 +5,7 @@ import Tag from './Tag';
 const ProjectItem = ({ project }: ProjectItemProps) => {
 	const { title, imgUrl, tags, link } = project;
 	return (
-		<div className='flex flex-col items-start gap-4 bg-gray-transparent p-8 hover:bg-gray-transparent-strong transition duration-300 ease-in-out hover:scale-105 hover:outline outline-primary-2 outline-offset-8 outline-4 hover:shadow-[0_0px_30px_rgba(0,0,0,0.4)]'>
+		<div className='flex flex-col items-start gap-4 bg-gray-transparent p-5 sm:p-8 hover:bg-gray-transparent-strong transition duration-300 ease-in-out hover:scale-105 hover:outline outline-primary-2 outline-offset-8 outline-4 hover:shadow-[0_0px_30px_rgba(0,0,0,0.4)]'>
 			<div className='w-full'>
 				<img className='object-cover h-[300px] w-full' src={imgUrl} alt={title} />
 			</div>
