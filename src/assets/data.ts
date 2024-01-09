@@ -29,4 +29,18 @@ export const projects = [
 		tags: ['React', 'Tailwind', 'shadcn', 'TypeScript'],
 		link: 'https://github.com/Zurisaday01/vault-movies',
 	},
+	{
+		title: 'Spend Sage',
+		imgUrl: '/spend-sage.png',
+		tags: [
+			'React',
+			'Tailwind',
+			'shadcn',
+			'TypeScript',
+			'Supabase',
+			'RTK Query',
+			'Redux',
+		],
+		link: 'https://github.com/Zurisaday01/spend-sage',
+	},
 ];
