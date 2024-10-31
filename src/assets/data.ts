@@ -43,4 +43,18 @@ export const projects = [
 		],
 		link: 'https://github.com/Zurisaday01/spend-sage',
 	},
+	{
+		title: 'Forms Mastery',
+		imgUrl: '/forms-mastery.png',
+		tags: [
+			'Nextjs',
+			'Tailwind',
+			'shadcn',
+			'TypeScript',
+			'PostgreSQL',
+			'Prisma',
+			'TanStack Query',
+		],
+		link: 'https://github.com/Zurisaday01/forms-mastery',
+	},
 ];
