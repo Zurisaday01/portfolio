@@ -57,4 +57,10 @@ export const projects = [
 		],
 		link: 'https://github.com/Zurisaday01/forms-mastery',
 	},
+	{
+		title: 'E-Shoppe',
+		imgUrl: '/e-shoppe.png',
+		tags: ['React', 'Tailwind', 'Redux'],
+		link: 'https://github.com/Zurisaday01/e-shoppe',
+	},
 ];
