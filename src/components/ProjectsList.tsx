@@ -19,7 +19,7 @@ const ProjectsList = () => {
 			<div className='text-center py-8 flex flex-col gap-2 items-center mb-3'>
 				<h2 className='heading_h2'>Projects</h2>
 				<p className='text-white'>
-					Some of the projects I've worked on can be found here
+					Some of the projects I've developed can be found here.
 				</p>
 				<div className='max-w-lg w-full mt-4'>
 					<SelectByTag setSelectedTags={setSelectedTags} />
