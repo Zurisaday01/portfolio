@@ -26,6 +26,7 @@ export const projects = [
 			'shadcn',
 			'Docker',
 			'Jenkins',
+			'Entity Framework',
 			'Microservices',
 		],
 		link: 'https://github.com/Zurisaday01/attendHub',
